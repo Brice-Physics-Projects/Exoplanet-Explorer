@@ -58,7 +58,7 @@ We’re integrating scientific models that include:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/exoplanet-explorer-backend.git
+git clone https://github.com/Brice-Physics-Projects/Exoplanet-Explorer
 cd exoplanet-explorer-backend
 
 # Create virtual environment
